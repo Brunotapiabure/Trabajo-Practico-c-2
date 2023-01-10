@@ -9,6 +9,7 @@ using MODEL;
 
 namespace CONTROLLER
 {
+    //nuevo comentario jejeje
     public class ArticuloNegocio
     {
         public List<Articulo> listar()
